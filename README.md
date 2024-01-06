@@ -26,6 +26,7 @@
 ## 5.程式設計連結
 https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/Code
 ## 6.影片呈現連結
+
 ## 7.可以改進的地方或其他發想
 * 可以連接到手機，利用手機輸入單位熱量以及限制熱量
 * 可以預先輸入常見零食熱量，增加鏡頭功能，利用鏡頭辨識零食種類
