@@ -25,6 +25,7 @@
 
 ## 5.程式設計
 可以至Code檔案中查看
+https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/Code
 ## 6.影片呈現連結
 ## 7.可以改進的地方或其他發想
 * 可以連接到手機，利用手機輸入單位熱量以及限制熱量
