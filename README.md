@@ -20,8 +20,8 @@
 ## 6.影片呈現連結
 ## 7.可以改進的地方或其他發想
 ## 8.參考資料
-https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
-https://officeguide.cc/raspberry-pi-gpio-led-tutorial-examples/
-https://sites.google.com/view/zsgititit/home/%E7%A1%AC%E9%AB%94%E5%AF%A6%E4%BD%9C/raspberry-shu-mei-pai/raspberry-shi-yong-fengbuzzier
-https://pinout.xyz/
+* https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+* https://officeguide.cc/raspberry-pi-gpio-led-tutorial-examples/
+* https://sites.google.com/view/zsgititit/home/%E7%A1%AC%E9%AB%94%E5%AF%A6%E4%BD%9C/raspberry-shu-mei-pai/raspberry-shi-yong-fengbuzzier
+* https://pinout.xyz/
 
