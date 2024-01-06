@@ -9,8 +9,8 @@
 * LED燈泡*1
 * 電阻*1
 * 蜂鳴器*1
-* 杜邦線*2
-* 杜邦線*2
+* 公對母杜邦線*2
+* 母對母杜邦線*2
 * 麵包板*1
 * 筆電*1
 * USB線*1
@@ -18,7 +18,9 @@
 ## 4.設計和實體照片
 * 連接重量感測器
   ![重量感測器](https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/%E9%87%8D%E9%87%8F%E6%84%9F%E6%B8%AC%E5%99%A8.jpg)
-* 
+* 連接LED燈
+* 連接蜂鳴器
+  
 
 ## 5.程式設計
 可以至Code檔案中查看
