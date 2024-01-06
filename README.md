@@ -17,7 +17,7 @@
 * 插頭*1
 ## 4.設計和實體照片
 * 連接重量感測器
-  
+  ![重量感測器](https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/%E9%87%8D%E9%87%8F%E6%84%9F%E6%B8%AC%E5%99%A8.jpg)
 * 
 
 ## 5.程式設計
