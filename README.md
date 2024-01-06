@@ -25,7 +25,7 @@
 * 實體照片
   ![實體照片](https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/%E7%85%A7%E7%89%87%E5%92%8C%E5%BD%B1%E7%89%87/%E5%AF%A6%E9%AB%94%E7%85%A7%E7%89%87.jpg)
   
-## 5.程式設計連結
+## 5.程式連結
 https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/Code
 ## 6.影片呈現連結
 https://youtube.com/shorts/XCcDWEc85ks?feature=share
