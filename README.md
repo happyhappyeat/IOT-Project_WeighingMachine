@@ -33,8 +33,11 @@ https://youtube.com/shorts/XCcDWEc85ks?feature=share
 * 可以連接到手機，利用手機輸入單位熱量以及限制熱量
 * 可以預先輸入常見零食熱量，增加鏡頭功能，利用鏡頭辨識零食種類
 ## 8.參考資料
-* https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
-* https://officeguide.cc/raspberry-pi-gpio-led-tutorial-examples/
-* https://sites.google.com/view/zsgititit/home/%E7%A1%AC%E9%AB%94%E5%AF%A6%E4%BD%9C/raspberry-shu-mei-pai/raspberry-shi-yong-fengbuzzier
+* 連接重量感測器
+  https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+* 連接LED燈
+  https://officeguide.cc/raspberry-pi-gpio-led-tutorial-examples/
+* 利用樹梅派發出DO RE MI音階
+  https://sites.google.com/view/zsgititit/home/%E7%A1%AC%E9%AB%94%E5%AF%A6%E4%BD%9C/raspberry-shu-mei-pai/raspberry-shi-yong-fengbuzzier
 * https://pinout.xyz/
 
