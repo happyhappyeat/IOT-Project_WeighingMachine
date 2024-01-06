@@ -19,6 +19,7 @@
 * 連接重量感測器
   ![重量感測器](
 * 連接LED燈
+  ![LED燈連接](https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/%E7%85%A7%E7%89%87%E5%92%8C%E5%BD%B1%E7%89%87/LED%E7%87%88%E9%80%A3%E6%8E%A5.jpg)
 * 連接蜂鳴器
 * 實體照片
   
