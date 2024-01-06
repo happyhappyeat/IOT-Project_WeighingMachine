@@ -1,6 +1,6 @@
 # IOT-Project_減肥好幫手
 ## 1.關於專案
-輸入欲測量食物每100公克的熱量以及限制的攝取熱量，若超過熱量則LED燈亮起，蜂鳴器發出DO、RE、MI提示。
+輸入欲測量食物每100公克的熱量以及限制的攝取熱量，若超過設定的量則LED燈亮起，蜂鳴器發出DO、RE、MI。
 ## 2.專案緣由
 減肥期間，常常會想吃零食但又擔心一不小心吃過多
 ## 3.專案所需實體材料
@@ -19,6 +19,8 @@
 ## 5.程式設計
 ## 6.影片呈現連結
 ## 7.可以改進的地方或其他發想
+* 可以連接到手機，利用手機輸入單位熱量以及限制熱量
+* 可以預先輸入常見零食熱量，增加鏡頭功能，利用鏡頭辨識零食種類
 ## 8.參考資料
 * https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
 * https://officeguide.cc/raspberry-pi-gpio-led-tutorial-examples/
