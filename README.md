@@ -23,8 +23,7 @@
 * 實體照片
   
 
-## 5.程式設計
-可以至Code檔案中查看
+## 5.程式設計連結
 https://github.com/happyhappyeat/IOT-Project_WeighingMachine/blob/main/Code
 ## 6.影片呈現連結
 ## 7.可以改進的地方或其他發想
